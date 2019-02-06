@@ -845,7 +845,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_hfr_120.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_hfr_240.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_hfr_240.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_hfr_60.so \
-    vendor/xiaomi/platina/proprietary/vendor/lib/libsse.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsse.so \   
+    vendor/xiaomi/platina/proprietary/vendor/lib/libsse.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsse.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_liveshot.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_preview.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_snapshot.so \
