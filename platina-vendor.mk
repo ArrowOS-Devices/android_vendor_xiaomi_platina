@@ -318,7 +318,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/platina/proprietary/vendor/etc/data/netmgr_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/netmgr_config.xml \
     vendor/xiaomi/platina/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
     vendor/xiaomi/platina/proprietary/vendor/etc/hdr_config.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/hdr_config.cfg \
-    vendor/xiaomi/platina/proprietary/vendor/etc/audio.bsd:$(TARGET_COPY_OUT_VENDOR)/etc/audio.bsd \
     vendor/xiaomi/platina/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
     vendor/xiaomi/platina/proprietary/vendor/etc/init/android.hardware.drm@1.1-service.widevine.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.1-service.widevine.rc \
     vendor/xiaomi/platina/proprietary/vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc \
@@ -799,7 +798,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx298_bear_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_bear_cpp_hfr_60.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx298_bear_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_bear_cpp_hfr_90.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx298_bear_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_bear_cpp_liveshot.so \
-    vendor/xiaomi/platina/proprietary/vendor/lib/libnwa.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnwa.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx298_bear_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_bear_cpp_preview.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx298_bear_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_bear_cpp_snapshot.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx298_bear_cpp_snapshot_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_bear_cpp_snapshot_hdr.so \
@@ -866,7 +864,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_hfr_120.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_hfr_240.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_hfr_240.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_hfr_60.so \
-    vendor/xiaomi/platina/proprietary/vendor/lib/libsse.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsse.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_liveshot.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_preview.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_imx318_bear_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx318_bear_cpp_snapshot.so \
@@ -1139,7 +1136,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13850_cpp_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13850_cpp_video_full.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13850_default_preview_lc898212xd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13850_default_preview_lc898212xd.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13850_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13850_default_video.so \
-    vendor/xiaomi/platina/proprietary/vendor/lib64/libnwa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnwa.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13850_default_video_lc898212xd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13850_default_video_lc898212xd.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13850_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13850_hfr_120.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13850_hfr_120_lc898212xd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13850_hfr_120_lc898212xd.so \
@@ -1202,7 +1198,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13855_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_hfr_90.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13855_hfr_90_bu64297.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_hfr_90_bu64297.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13855_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_postproc.so \
-    vendor/xiaomi/platina/proprietary/vendor/lib64/libsse.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsse.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13855_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_preview.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13855_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_snapshot.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libchromatix_ov13855_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov13855_video_full.so \
