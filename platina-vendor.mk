@@ -53,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/platina/proprietary/framework/com.quicinc.cne.server-V2.2-java.jar:system/framework/com.quicinc.cne.server-V2.2-java.jar \
     vendor/xiaomi/platina/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
     vendor/xiaomi/platina/proprietary/framework/embmslibrary.jar:system/framework/embmslibrary.jar \
-    vendor/xiaomi/platina/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/xiaomi/platina/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/xiaomi/platina/proprietary/framework/vendor.qti.data.factory-V1.0-java.jar:system/framework/vendor.qti.data.factory-V1.0-java.jar \
     vendor/xiaomi/platina/proprietary/framework/vendor.qti.hardware.alarm-V1.0-java.jar:system/framework/vendor.qti.hardware.alarm-V1.0-java.jar \
